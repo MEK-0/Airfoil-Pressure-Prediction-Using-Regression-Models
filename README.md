@@ -1,4 +1,4 @@
-## Airfoil-Pressure-Prediction-Using-Regression-Models
+## Predictive Modeling of Airfoil Noise Using Machine Learning
 
 The aim of this project is to predict the pressure coefficient (Cp) on airfoil surfaces using various regression models. Based on aerodynamic features such as angle of attack, chord length, free-stream velocity, and suction surface displacement thickness, the goal is to estimate the pressure coefficient through both linear and non-linear regression techniques. Initially, a linear regression model is applied for basic prediction, followed by the implementation of more complex algorithms like Random Forest to improve model performance. This study aims to highlight the potential of data-driven analysis in aerodynamic computations, particularly in engineering applications.
 
