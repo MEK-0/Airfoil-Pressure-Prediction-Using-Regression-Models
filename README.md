@@ -37,7 +37,7 @@ aircraft_anomaly_detection/
 │   └── trained_models/        # Saved models (.pkl, .joblib, etc.) (Linear Regression)
 │
 ├── reports/
-│   ├── images/                # Generated graphs and charts
+│   └── images/                # Generated graphs and charts
 │   
 │
 │
